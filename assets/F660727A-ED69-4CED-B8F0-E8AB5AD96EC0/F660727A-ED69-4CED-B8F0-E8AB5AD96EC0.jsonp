@@ -1,0 +1,3893 @@
+local_slide( {
+  "name" : "F660727A-ED69-4CED-B8F0-E8AB5AD96EC0",
+  "json" : {
+    "assets" : {
+      "450208FBCFE71332C356A30C9537D274" : {
+        "type" : "texture",
+        "index" : 4,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F660727A-ED69-4CED-B8F0-E8AB5AD96EC0.pdf"
+        },
+        "width" : 1919,
+        "height" : 1080
+      },
+      "7D5283A608A4BC5A23AC2C76EE49845D" : {
+        "type" : "texture",
+        "index" : 1,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F660727A-ED69-4CED-B8F0-E8AB5AD96EC0.pdf"
+        },
+        "width" : 447,
+        "height" : 154
+      },
+      "83ED444BDA4396B2598F9A682BE70C2A" : {
+        "type" : "texture",
+        "index" : 2,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F660727A-ED69-4CED-B8F0-E8AB5AD96EC0.pdf"
+        },
+        "width" : 1063,
+        "height" : 1056
+      },
+      "AD2A2C0A1CDD9D021574795423727C8B" : {
+        "type" : "texture",
+        "index" : 0,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F660727A-ED69-4CED-B8F0-E8AB5AD96EC0.pdf"
+        },
+        "width" : 1919,
+        "height" : 1080
+      },
+      "497A749B5F1EBF435D82302A8F02DABB" : {
+        "type" : "texture",
+        "index" : 3,
+        "assetRequest" : {
+          "type" : "slide",
+          "state" : "contents",
+          "slide" : "none"
+        },
+        "url" : {
+          "native" : "assets\/F660727A-ED69-4CED-B8F0-E8AB5AD96EC0.pdf"
+        },
+        "width" : 1919,
+        "height" : 1080
+      }
+    },
+    "events" : [
+      {
+        "effects" : [
+          {
+            "beginTime" : 0,
+            "baseLayer" : {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 959.5,
+                  "pointY" : 540
+                },
+                "width" : 1919,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "objectID" : "0",
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 959.5,
+                      "pointY" : 540
+                    },
+                    "width" : 1919,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      -0.00035007912466775983,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 1080,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "isBackgroundTexture" : false,
+                        "singleTextureOpacity" : 1,
+                        "textureType" : 0,
+                        "textBaseline" : 0,
+                        "textXHeight" : 0,
+                        "isVerticalText" : false
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 959.5,
+                          "pointY" : 540
+                        },
+                        "width" : 1919,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 1080,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "497A749B5F1EBF435D82302A8F02DABB"
+                    },
+                    {
+                      "animations" : [
+                        {
+                          "timeOffset" : 0,
+                          "from" : {
+                            "scalar" : false
+                          },
+                          "beginTime" : 0,
+                          "repeatCount" : 0,
+                          "fillMode" : "both",
+                          "property" : "hidden",
+                          "autoreverses" : false,
+                          "duration" : 0.01,
+                          "to" : {
+                            "scalar" : true
+                          }
+                        }
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "isBackgroundTexture" : false,
+                        "singleTextureOpacity" : 1,
+                        "textureType" : 0,
+                        "textBaseline" : 0,
+                        "textXHeight" : 0,
+                        "isVerticalText" : false
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 959.5,
+                          "pointY" : 540
+                        },
+                        "width" : 1919,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 1080,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "450208FBCFE71332C356A30C9537D274"
+                    }
+                  ]
+                }
+              ]
+            },
+            "effects" : [
+
+            ],
+            "duration" : 0.01,
+            "type" : "transition",
+            "name" : "none",
+            "objectID" : "0"
+          }
+        ],
+        "automaticPlay" : false,
+        "hyperlinks" : [
+
+        ],
+        "accessibility" : [
+          {
+            "text" : "pasted-image.tiff",
+            "targetRectangle" : {
+              "y" : 464,
+              "x" : 295,
+              "width" : 445,
+              "height" : 152
+            }
+          }
+        ],
+        "baseLayer" : {
+          "animations" : [
+
+          ],
+          "initialState" : {
+            "affineTransform" : [
+              1,
+              0,
+              0,
+              1,
+              0,
+              0
+            ],
+            "masksToBounds" : false,
+            "rotation" : 0,
+            "scale" : 1,
+            "position" : {
+              "pointX" : 959.5,
+              "pointY" : 540
+            },
+            "width" : 1919,
+            "sublayerTransform" : [
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1,
+              0,
+              0,
+              0,
+              0,
+              1
+            ],
+            "contentsRect" : {
+              "y" : 0,
+              "x" : 0,
+              "width" : 1,
+              "height" : 1
+            },
+            "opacity" : 1,
+            "edgeAntialiasingMask" : 251658240,
+            "height" : 1080,
+            "hidden" : false,
+            "anchorPoint" : {
+              "pointX" : 0.5,
+              "pointY" : 0.5
+            }
+          },
+          "objectID" : "0",
+          "layers" : [
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 959.5,
+                  "pointY" : 540
+                },
+                "width" : 1919,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 959.5,
+                      "pointY" : 540
+                    },
+                    "width" : 1919,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 1080,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "isBackgroundTexture" : true,
+                        "singleTextureOpacity" : 1,
+                        "textureType" : 1,
+                        "textBaseline" : 0,
+                        "textXHeight" : 0,
+                        "isVerticalText" : false
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 959.5,
+                          "pointY" : 540
+                        },
+                        "width" : 1919,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 1080,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "AD2A2C0A1CDD9D021574795423727C8B"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 959.5,
+                  "pointY" : 540
+                },
+                "width" : 1919,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 518.5,
+                      "pointY" : 541
+                    },
+                    "width" : 447,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 1,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 154,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "isBackgroundTexture" : true,
+                        "singleTextureOpacity" : 1,
+                        "textureType" : 5,
+                        "textBaseline" : 0,
+                        "textXHeight" : 0,
+                        "isVerticalText" : false
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 222.5,
+                          "pointY" : 76
+                        },
+                        "width" : 447,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 154,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "7D5283A608A4BC5A23AC2C76EE49845D"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "animations" : [
+
+              ],
+              "initialState" : {
+                "affineTransform" : [
+                  1,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0
+                ],
+                "masksToBounds" : false,
+                "rotation" : 0,
+                "scale" : 1,
+                "position" : {
+                  "pointX" : 959.5,
+                  "pointY" : 540
+                },
+                "width" : 1919,
+                "sublayerTransform" : [
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1
+                ],
+                "contentsRect" : {
+                  "y" : 0,
+                  "x" : 0,
+                  "width" : 1,
+                  "height" : 1
+                },
+                "opacity" : 1,
+                "edgeAntialiasingMask" : 251658240,
+                "height" : 1080,
+                "hidden" : false,
+                "anchorPoint" : {
+                  "pointX" : 0.5,
+                  "pointY" : 0.5
+                }
+              },
+              "layers" : [
+                {
+                  "animations" : [
+
+                  ],
+                  "initialState" : {
+                    "affineTransform" : [
+                      1,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0
+                    ],
+                    "masksToBounds" : false,
+                    "rotation" : 0,
+                    "scale" : 1,
+                    "position" : {
+                      "pointX" : 1388.9575659515835,
+                      "pointY" : 556.495314494171
+                    },
+                    "width" : 1063,
+                    "sublayerTransform" : [
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1,
+                      0,
+                      0,
+                      0,
+                      0,
+                      1
+                    ],
+                    "contentsRect" : {
+                      "y" : 0,
+                      "x" : 0,
+                      "width" : 1,
+                      "height" : 1
+                    },
+                    "opacity" : 0.04463900625705719,
+                    "edgeAntialiasingMask" : 251658240,
+                    "height" : 1056,
+                    "hidden" : false,
+                    "anchorPoint" : {
+                      "pointX" : 0.5,
+                      "pointY" : 0.5
+                    }
+                  },
+                  "layers" : [
+                    {
+                      "animations" : [
+
+                      ],
+                      "layers" : [
+
+                      ],
+                      "texturedRectangle" : {
+                        "singleTextureOpacity" : 0.04463900625705719,
+                        "textXHeight" : 0,
+                        "shapePath" : {
+                          "lineWidth" : 1,
+                          "flatness" : 0.59999999999999998,
+                          "lineCapStyle" : 0,
+                          "elements" : [
+                            {
+                              "type" : "MoveToPoint",
+                              "points" : [
+                                [
+                                  68.678280761352539,
+                                  13.026782190771527
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  65.58258926107726,
+                                  13.362086555354054
+                                ],
+                                [
+                                  60.547798095703797,
+                                  16.493355446252849
+                                ],
+                                [
+                                  60.470671018472672,
+                                  20.027390419339667
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  59.989167028932457,
+                                  42.735754456805353
+                                ],
+                                [
+                                  68.43295143367493,
+                                  67.73062704496806
+                                ],
+                                [
+                                  75.357022022715569,
+                                  89.228807740260891
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  79.355803624955911,
+                                  101.71675417220649
+                                ],
+                                [
+                                  84.360105431220177,
+                                  112.05166464994363
+                                ],
+                                [
+                                  89.841039216032982,
+                                  120.36944470589333
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  80.70766880391227,
+                                  115.83136291920346
+                                ],
+                                [
+                                  65.218485020271942,
+                                  109.79293748954478
+                                ],
+                                [
+                                  42.20471354680501,
+                                  108.7822309512394
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  31.032052920966976,
+                                  108.29043287395871
+                                ],
+                                [
+                                  19.965005534409556,
+                                  101.67215955546817
+                                ],
+                                [
+                                  19.995887797630985,
+                                  101.62068911676579
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  20.062838658355304,
+                                  101.81639465506851
+                                ],
+                                [
+                                  20.357005967183341,
+                                  136.7481241092155
+                                ],
+                                [
+                                  60.631604542842865,
+                                  142.25640402023964
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  84.7126975815371,
+                                  145.71113129827245
+                                ],
+                                [
+                                  93.675586899360383,
+                                  145.00382531543255
+                                ],
+                                [
+                                  97.485381623617172,
+                                  143.86573926394158
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  100.76133753058446,
+                                  153.8045238157265
+                                ],
+                                [
+                                  104.43440162378454,
+                                  163.44187233260709
+                                ],
+                                [
+                                  108.26792775642014,
+                                  172.9947071749466
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  105.44043260315436,
+                                  172.63590713965641
+                                ],
+                                [
+                                  103.01114576763564,
+                                  172.17895965713069
+                                ],
+                                [
+                                  95.634646093359947,
+                                  172.19003955309563
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  82.950483347765726,
+                                  172.20901682171643
+                                ],
+                                [
+                                  66.37633414860818,
+                                  173.6340800367816
+                                ],
+                                [
+                                  50.653723576240168,
+                                  179.27110480278134
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  33.90634295399957,
+                                  185.27585835002174
+                                ],
+                                [
+                                  12.892613412784158,
+                                  178.5906734612181
+                                ],
+                                [
+                                  12.914812495507022,
+                                  178.54690394311547
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  12.958582013227897,
+                                  178.81985442988298
+                                ],
+                                [
+                                  15.250509647849412,
+                                  216.42124945541218
+                                ],
+                                [
+                                  66.827545231095314,
+                                  203.73300050705075
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  101.74685891529577,
+                                  195.62565989361246
+                                ],
+                                [
+                                  111.67747106154627,
+                                  191.25012253815294
+                                ],
+                                [
+                                  114.86620225559807,
+                                  189.08804978936314
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  118.80039042178748,
+                                  197.98257379165807
+                                ],
+                                [
+                                  122.94639319488113,
+                                  206.74299962044824
+                                ],
+                                [
+                                  127.33855039428806,
+                                  215.32021426170468
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  113.68599688327583,
+                                  216.44431292680019
+                                ],
+                                [
+                                  88.680164726032558,
+                                  219.88438488144675
+                                ],
+                                [
+                                  64.091675316802025,
+                                  231.81590050964951
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  36.753561893699384,
+                                  245.0819542454592
+                                ],
+                                [
+                                  25.762619419768612,
+                                  245.85970793562228
+                                ],
+                                [
+                                  25.789494061045275,
+                                  245.81711712985634
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  25.756018630683116,
+                                  246.12094987984528
+                                ],
+                                [
+                                  31.841160359286164,
+                                  274.7990996124754
+                                ],
+                                [
+                                  86.702835490814209,
+                                  252.25445810466408
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  119.45496867276586,
+                                  239.22752581155873
+                                ],
+                                [
+                                  130.87174062353358,
+                                  233.19672272167736
+                                ],
+                                [
+                                  135.46569337498283,
+                                  230.12609850376248
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  140.32473853095496,
+                                  238.91057006422125
+                                ],
+                                [
+                                  145.28487791500436,
+                                  247.64423912296843
+                                ],
+                                [
+                                  150.59344466578102,
+                                  256.11686268954873
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  132.26537150962019,
+                                  259.35840019628449
+                                ],
+                                [
+                                  96.316609760960887,
+                                  267.57154988714683
+                                ],
+                                [
+                                  77.207757552972794,
+                                  284.03882916777729
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  50.636985861059088,
+                                  306.36352295356119
+                                ],
+                                [
+                                  39.684547990127044,
+                                  301.93596509364215
+                                ],
+                                [
+                                  39.710243919067011,
+                                  301.90245037286877
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  39.627851926731978,
+                                  302.25005264096035
+                                ],
+                                [
+                                  45.41045748891645,
+                                  332.36010212020847
+                                ],
+                                [
+                                  107.22185984801388,
+                                  300.77591570227742
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  141.27328763870526,
+                                  283.77361889202075
+                                ],
+                                [
+                                  154.70683639755941,
+                                  275.63842137702522
+                                ],
+                                [
+                                  160.57132317673302,
+                                  271.40554750471711
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  166.17798627746004,
+                                  279.76010338557171
+                                ],
+                                [
+                                  172.02439946747108,
+                                  287.95282206259799
+                                ],
+                                [
+                                  178.03261057089912,
+                                  296.02837673335671
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  157.23006660631279,
+                                  301.46412654526284
+                                ],
+                                [
+                                  115.4417674896066,
+                                  314.39794056376923
+                                ],
+                                [
+                                  94.82997847150898,
+                                  333.92822172253727
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  66.518565437236134,
+                                  360.05612908869807
+                                ],
+                                [
+                                  52.79296859610929,
+                                  357.03512866015808
+                                ],
+                                [
+                                  52.82632615523778,
+                                  357.02220211486565
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  52.707865565399857,
+                                  357.39298572557891
+                                ],
+                                [
+                                  64.034389897238611,
+                                  386.76150727381173
+                                ],
+                                [
+                                  132.24702288757896,
+                                  347.20525712828385
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  167.31988349883966,
+                                  327.20657533211852
+                                ],
+                                [
+                                  182.75068173140244,
+                                  316.99295435382737
+                                ],
+                                [
+                                  189.78075784992325,
+                                  311.63892859726548
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  196.52299241582296,
+                                  320.1695448108112
+                                ],
+                                [
+                                  203.47888823795438,
+                                  328.57329228651724
+                                ],
+                                [
+                                  210.6216492558633,
+                                  336.82502516120076
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  189.36192206628402,
+                                  343.38308592449175
+                                ],
+                                [
+                                  141.18456989016329,
+                                  360.33387300563481
+                                ],
+                                [
+                                  118.24580626737213,
+                                  383.57623363594757
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  88.448626332694289,
+                                  412.94338001978758
+                                ],
+                                [
+                                  72.10746927209027,
+                                  411.25412807965768
+                                ],
+                                [
+                                  72.138351535311699,
+                                  411.25679982762085
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  71.999302769992823,
+                                  411.63013731506362
+                                ],
+                                [
+                                  89.084541638341648,
+                                  440.13352329857298
+                                ],
+                                [
+                                  163.30719309102631,
+                                  393.71504567126976
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  200.14996885665823,
+                                  370.95485696748801
+                                ],
+                                [
+                                  217.12185488862815,
+                                  359.0120649912642
+                                ],
+                                [
+                                  224.94473292481052,
+                                  352.67699695687043
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  232.04568894517797,
+                                  360.45614476536139
+                                ],
+                                [
+                                  239.26373039099053,
+                                  368.12516155119374
+                                ],
+                                [
+                                  246.67075871478664,
+                                  375.69049094180809
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  226.82493626348514,
+                                  381.67693515741848
+                                ],
+                                [
+                                  185.38565386967457,
+                                  397.24477834432764
+                                ],
+                                [
+                                  145.84590569686031,
+                                  430.97115656296955
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  111.8181307337253,
+                                  459.99844088972895
+                                ],
+                                [
+                                  95.760886184620063,
+                                  462.65187952127599
+                                ],
+                                [
+                                  95.795579617730141,
+                                  462.67506086389767
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  95.653976975681758,
+                                  463.03040334300022
+                                ],
+                                [
+                                  118.5734097161511,
+                                  490.65808464116708
+                                ],
+                                [
+                                  198.4711681659137,
+                                  438.37409868399845
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  237.36812521111642,
+                                  413.12663049773255
+                                ],
+                                [
+                                  255.1839692761605,
+                                  399.97809438189142
+                                ],
+                                [
+                                  263.64924553584206,
+                                  392.8299112872337
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  271.01140421002128,
+                                  400.00528334645787
+                                ],
+                                [
+                                  278.51320100568773,
+                                  407.05516183223517
+                                ],
+                                [
+                                  286.09947218548405,
+                                  414.07313650409924
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  265.12397183069334,
+                                  421.97035199831589
+                                ],
+                                [
+                                  221.22715279569456,
+                                  441.16081039041455
+                                ],
+                                [
+                                  176.262341802827,
+                                  475.63020957569825
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  138.72750473390977,
+                                  504.40509230075986
+                                ],
+                                [
+                                  122.31758945366516,
+                                  510.66468345519388
+                                ],
+                                [
+                                  122.34961113881207,
+                                  510.71371788840042
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  122.21570941736343,
+                                  511.03039860285935
+                                ],
+                                [
+                                  150.80514140145158,
+                                  537.97764855946298
+                                ],
+                                [
+                                  236.12961286853897,
+                                  480.69961559335934
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  277.43577934912537,
+                                  453.09016504600004
+                                ],
+                                [
+                                  296.20685189182768,
+                                  438.77462513600767
+                                ],
+                                [
+                                  305.17009482335197,
+                                  430.97115656296955
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  314.4400387048845,
+                                  439.23872347337601
+                                ],
+                                [
+                                  323.75658101412773,
+                                  447.487195243928
+                                ],
+                                [
+                                  333.25299482595074,
+                                  455.59398579160916
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  309.17033017080757,
+                                  464.33924552166718
+                                ],
+                                [
+                                  257.1971313664144,
+                                  486.22306160311564
+                                ],
+                                [
+                                  214.80592088948833,
+                                  522.78373221616494
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  177.34832876903602,
+                                  555.08885838963033
+                                ],
+                                [
+                                  157.15969747981205,
+                                  560.44807048047369
+                                ],
+                                [
+                                  157.19171916495895,
+                                  560.52264368097531
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  157.08873899714297,
+                                  560.77496670185064
+                                ],
+                                [
+                                  191.17336718531806,
+                                  587.10260687346454
+                                ],
+                                [
+                                  281.91520055185902,
+                                  526.0828694657539
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  325.83527951030192,
+                                  496.55651833563752
+                                ],
+                                [
+                                  345.05447883821034,
+                                  481.75692055937543
+                                ],
+                                [
+                                  354.33526687324047,
+                                  473.53807375888573
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  363.82955900285742,
+                                  481.44251868876745
+                                ],
+                                [
+                                  373.44683011960296,
+                                  489.2985578320222
+                                ],
+                                [
+                                  383.06190097332001,
+                                  497.11483507911908
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  359.85942011039879,
+                                  506.20089983612706
+                                ],
+                                [
+                                  305.97704128905389,
+                                  530.53203705184569
+                                ],
+                                [
+                                  252.54483235429871,
+                                  574.76526058773743
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  211.82220706119915,
+                                  608.47635483641352
+                                ],
+                                [
+                                  190.22489665839021,
+                                  617.12558880144206
+                                ],
+                                [
+                                  190.26355842303383,
+                                  617.25171102146851
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  190.19920072945024,
+                                  617.35983823315473
+                                ],
+                                [
+                                  232.11829762511843,
+                                  643.46187286352506
+                                ],
+                                [
+                                  329.39059024106609,
+                                  575.4089946852182
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  376.66220021246409,
+                                  542.09960560088803
+                                ],
+                                [
+                                  397.12393915010034,
+                                  525.37430618975486
+                                ],
+                                [
+                                  406.63866229355335,
+                                  516.3463912413572
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  418.81130317543284,
+                                  526.12931073181971
+                                ],
+                                [
+                                  430.98150805181649,
+                                  535.87333271517127
+                                ],
+                                [
+                                  443.17057232558727,
+                                  545.63629267673241
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  417.12802337780886,
+                                  553.74159018878709
+                                ],
+                                [
+                                  356.14223288539506,
+                                  576.93275541327603
+                                ],
+                                [
+                                  298.08901975106346,
+                                  625.21792047779309
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  254.97172247473281,
+                                  661.08165777656541
+                                ],
+                                [
+                                  229.33174308034722,
+                                  668.27659646057873
+                                ],
+                                [
+                                  229.37040484499084,
+                                  668.42857177119004
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  229.40906660963446,
+                                  668.46974812215194
+                                ],
+                                [
+                                  275.13045376101581,
+                                  696.10591614914301
+                                ],
+                                [
+                                  382.49863363802433,
+                                  627.55145658116089
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  436.47250018190243,
+                                  592.80223108714563
+                                ],
+                                [
+                                  459.13638808777614,
+                                  575.68504911447235
+                                ],
+                                [
+                                  469.24180327355862,
+                                  566.63811760704266
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  481.37177476884972,
+                                  576.43329570580681
+                                ],
+                                [
+                                  493.33837673427479,
+                                  586.3418659313611
+                                ],
+                                [
+                                  505.29091273248196,
+                                  596.24988609115826
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  477.8585833589168,
+                                  602.35105830754037
+                                ],
+                                [
+                                  417.22129881405272,
+                                  621.7041004212806
+                                ],
+                                [
+                                  346.04719036817551,
+                                  676.31431446532952
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  298.94390051845767,
+                                  712.45614929473959
+                                ],
+                                [
+                                  270.69951692573159,
+                                  719.34210818489373
+                                ],
+                                [
+                                  270.73032060813057,
+                                  719.52496575872647
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  270.91569276828159,
+                                  719.48378940776456
+                                ],
+                                [
+                                  319.26270094006395,
+                                  749.42976212974463
+                                ],
+                                [
+                                  436.81369811296463,
+                                  681.705587531731
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  497.63116848369827,
+                                  646.31247077859007
+                                ],
+                                [
+                                  522.56761377472139,
+                                  628.99223596071533
+                                ],
+                                [
+                                  533.37381273508072,
+                                  619.9875809357618
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  546.94739251953433,
+                                  631.61785698111635
+                                ],
+                                [
+                                  560.39312130586768,
+                                  643.33740084076999
+                                ],
+                                [
+                                  573.4462603032589,
+                                  655.31248953501927
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  543.59222714354109,
+                                  662.09448599707684
+                                ],
+                                [
+                                  470.68596162847825,
+                                  683.36372146617214
+                                ],
+                                [
+                                  398.35058578848839,
+                                  731.0317127511953
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  345.96090862512938,
+                                  765.55391824916296
+                                ],
+                                [
+                                  316.49201972142691,
+                                  772.73101908648096
+                                ],
+                                [
+                                  316.51590829145061,
+                                  772.9548958496307
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  316.89702528031557,
+                                  772.78751869781991
+                                ],
+                                [
+                                  366.06408326994278,
+                                  806.09714352461742
+                                ],
+                                [
+                                  493.70369897782803,
+                                  741.25099154870259
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  562.75070314090408,
+                                  705.70707819728705
+                                ],
+                                [
+                                  589.09790993730712,
+                                  689.07607577308954
+                                ],
+                                [
+                                  600.16122534871101,
+                                  680.49858609895455
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  614.00127270208031,
+                                  694.00309334047779
+                                ],
+                                [
+                                  627.31058518064674,
+                                  707.84557669934293
+                                ],
+                                [
+                                  640.15320615470409,
+                                  722.01943538646447
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  613.32563479068631,
+                                  724.87553395910072
+                                ],
+                                [
+                                  538.30468076276884,
+                                  738.8908951273479
+                                ],
+                                [
+                                  449.60791330039501,
+                                  792.18645201186882
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  392.77134739479516,
+                                  826.337834608712
+                                ],
+                                [
+                                  361.50199504199554,
+                                  831.49792289547622
+                                ],
+                                [
+                                  361.49680870771408,
+                                  831.77609900693642
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  362.13024871745438,
+                                  831.44393787045556
+                                ],
+                                [
+                                  409.87784237561573,
+                                  869.55948721725144
+                                ],
+                                [
+                                  547.05316230654716,
+                                  809.72820616821991
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  624.21371496803476,
+                                  775.46123118155811
+                                ],
+                                [
+                                  653.45473913184833,
+                                  758.92303270866978
+                                ],
+                                [
+                                  664.85650214552879,
+                                  750.746069486544
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  677.75735150901892,
+                                  766.48329363623634
+                                ],
+                                [
+                                  690.08188912068726,
+                                  782.61507209543197
+                                ],
+                                [
+                                  701.38841217756271,
+                                  799.42846060852753
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  677.30048260731564,
+                                  800.16036238879315
+                                ],
+                                [
+                                  593.80545126760262,
+                                  809.85574284305039
+                                ],
+                                [
+                                  497.00283622741699,
+                                  860.66366663138615
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  434.98032894446806,
+                                  893.2186012394086
+                                ],
+                                [
+                                  403.15053816598083,
+                                  894.27386310404108
+                                ],
+                                [
+                                  403.0981247574091,
+                                  894.62064027349697
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  404.04054456100857,
+                                  894.08244022056169
+                                ],
+                                [
+                                  447.59451546767377,
+                                  939.04575817780278
+                                ],
+                                [
+                                  593.1606170386076,
+                                  886.97629786591278
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  680.09921717956604,
+                                  855.02572836332547
+                                ],
+                                [
+                                  710.65819889745035,
+                                  839.52896153031907
+                                ],
+                                [
+                                  721.585569486022,
+                                  832.01749929349171
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  732.20671060952009,
+                                  850.41743461177975
+                                ],
+                                [
+                                  741.87010866904166,
+                                  869.46008247685677
+                                ],
+                                [
+                                  750.23173682391644,
+                                  889.39030073146569
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  745.03125799441477,
+                                  888.72684284755087
+                                ],
+                                [
+                                  737.46863964217482,
+                                  888.19107880011143
+                                ],
+                                [
+                                  727.21824283897877,
+                                  888.42469958524453
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  692.21543703092902,
+                                  889.22198060978553
+                                ],
+                                [
+                                  628.02354898270278,
+                                  898.40234235372918
+                                ],
+                                [
+                                  535.94874912500381,
+                                  937.50942451815354
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  467.94726280457689,
+                                  966.39251303572382
+                                ],
+                                [
+                                  437.41240539918363,
+                                  964.18627786471916
+                                ],
+                                [
+                                  437.29649868607521,
+                                  964.62672337453114
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  438.60974139079917,
+                                  963.83360713357979
+                                ],
+                                [
+                                  464.73676472270745,
+                                  1015.4633291630598
+                                ],
+                                [
+                                  617.8639130294323,
+                                  978.86934028129326
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  713.63460470925202,
+                                  955.98047548075556
+                                ],
+                                [
+                                  752.45408106352261,
+                                  934.28156007452344
+                                ],
+                                [
+                                  764.15248668193817,
+                                  926.64641162316548
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  775.85379979078425,
+                                  962.57482093881117
+                                ],
+                                [
+                                  783.73608492873609,
+                                  1001.0508990989911
+                                ],
+                                [
+                                  786.92458038032055,
+                                  1042.7599494562601
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  786.92458038032055,
+                                  1042.7599494562601
+                                ],
+                                [
+                                  803.37382536219957,
+                                  1044.4607527772896
+                                ],
+                                [
+                                  811.14507579803467,
+                                  1031.3336692259763
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  807.64375009229116,
+                                  990.65787810305483
+                                ],
+                                [
+                                  799.77317349688383,
+                                  953.12712723690493
+                                ],
+                                [
+                                  788.61438238620758,
+                                  917.95600130717503
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  806.62738573476963,
+                                  913.57936382020125
+                                ],
+                                [
+                                  844.27349324827082,
+                                  903.55928740759555
+                                ],
+                                [
+                                  920.17753855884075,
+                                  873.21648153226124
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  1078.4229701547883,
+                                  809.95821223552048
+                                ],
+                                [
+                                  1048.0899868822598,
+                                  737.30293386735138
+                                ],
+                                [
+                                  1046.0275546163321,
+                                  738.91745544533478
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  1046.1201228251739,
+                                  739.21079765552713
+                                ],
+                                [
+                                  1030.0547451609455,
+                                  766.40872043573472
+                                ],
+                                [
+                                  953.89311191439629,
+                                  786.07097808580147
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  855.07018392911414,
+                                  811.58562106838508
+                                ],
+                                [
+                                  798.31109871444642,
+                                  855.58640253148042
+                                ],
+                                [
+                                  774.04989843070507,
+                                  877.56168669025647
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  765.78814650115964,
+                                  857.613944912242
+                                ],
+                                [
+                                  756.22226724229404,
+                                  838.58308417053195
+                                ],
+                                [
+                                  745.80606490373611,
+                                  820.18888525228249
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  766.18914443810354,
+                                  814.74692755540309
+                                ],
+                                [
+                                  812.03209612180945,
+                                  801.75696753925877
+                                ],
+                                [
+                                  873.82868354022503,
+                                  773.67909670929657
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  1016.7763149456005,
+                                  708.72906088610762
+                                ],
+                                [
+                                  977.1858821423084,
+                                  637.20361758307263
+                                ],
+                                [
+                                  975.7800712287426,
+                                  638.33400271396386
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  975.87028201291105,
+                                  638.57587448545382
+                                ],
+                                [
+                                  968.0076420805708,
+                                  671.53840781950566
+                                ],
+                                [
+                                  893.54304027557373,
+                                  694.74120300571667
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  798.91687827468559,
+                                  724.22724217391806
+                                ],
+                                [
+                                  747.1210363865539,
+                                  765.83256584555784
+                                ],
+                                [
+                                  725.12610702216625,
+                                  786.47331189672695
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  713.67939577804646,
+                                  769.19276039418764
+                                ],
+                                [
+                                  701.3409493608051,
+                                  752.60961369085999
+                                ],
+                                [
+                                  688.27232994139194,
+                                  736.50345257978188
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  707.29769002553076,
+                                  729.28926159426919
+                                ],
+                                [
+                                  750.48547429959581,
+                                  712.46589331672294
+                                ],
+                                [
+                                  805.99520301818848,
+                                  683.55632306198822
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  932.04874340581591,
+                                  617.9059749491571
+                                ],
+                                [
+                                  894.43650422678911,
+                                  554.28041888830194
+                                ],
+                                [
+                                  893.86490732431412,
+                                  555.29230413894402
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  879.81088439142331,
+                                  580.17146401040372
+                                ],
+                                [
+                                  866.04855347145349,
+                                  578.15759469274781
+                                ],
+                                [
+                                  797.38525946438313,
+                                  612.66510557691799
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  726.53207509737695,
+                                  648.27078345477639
+                                ],
+                                [
+                                  683.58231213450199,
+                                  688.88811044579779
+                                ],
+                                [
+                                  664.6151018589735,
+                                  708.66195286373841
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  651.47756705827487,
+                                  693.98462684720289
+                                ],
+                                [
+                                  637.84630895014561,
+                                  679.60370769293513
+                                ],
+                                [
+                                  623.65751990675926,
+                                  665.69270185689675
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  640.01867578667589,
+                                  658.68172087823041
+                                ],
+                                [
+                                  673.93871644223691,
+                                  643.43814145514625
+                                ],
+                                [
+                                  734.78211848437786,
+                                  607.43476603488671
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  838.21978384864633,
+                                  546.22329142040689
+                                ],
+                                [
+                                  807.38246885765693,
+                                  485.71817981889762
+                                ],
+                                [
+                                  806.88033740222454,
+                                  486.17135542194592
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  806.9495671067998,
+                                  486.35932074923767
+                                ],
+                                [
+                                  800.25628839328419,
+                                  505.95973529203911
+                                ],
+                                [
+                                  734.29931791126728,
+                                  536.38261502544628
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  661.17051150703628,
+                                  570.11476893453801
+                                ],
+                                [
+                                  615.80509548133705,
+                                  619.8081809181167
+                                ],
+                                [
+                                  597.90815600752831,
+                                  641.23080615262734
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  584.83702200179687,
+                                  629.19261705795361
+                                ],
+                                [
+                                  571.2004989785637,
+                                  617.54866794949339
+                                ],
+                                [
+                                  557.59430815279484,
+                                  605.90589755336987
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  572.88707917073043,
+                                  598.9053678240889
+                                ],
+                                [
+                                  600.19320774344669,
+                                  584.31503077800153
+                                ],
+                                [
+                                  654.55675658583641,
+                                  550.38383164565312
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  769.29347982884792,
+                                  479.4108115244162
+                                ],
+                                [
+                                  719.06336082796042,
+                                  426.87183079840906
+                                ],
+                                [
+                                  718.84969957172871,
+                                  427.10875197808491
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  718.90384175839426,
+                                  427.27612912989571
+                                ],
+                                [
+                                  705.51862020534463,
+                                  455.51548354998522
+                                ],
+                                [
+                                  646.99288094043732,
+                                  491.16029467742192
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  593.27416632704262,
+                                  523.87718436050636
+                                ],
+                                [
+                                  549.96387455078366,
+                                  565.03774057709961
+                                ],
+                                [
+                                  531.20121015608311,
+                                  583.53613766591297
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  518.30963332964166,
+                                  572.88364279425878
+                                ],
+                                [
+                                  505.29122705577174,
+                                  562.31192900807946
+                                ],
+                                [
+                                  492.17483049631119,
+                                  551.83223336498486
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  506.31230626264005,
+                                  544.47816851551761
+                                ],
+                                [
+                                  531.06070764554897,
+                                  529.66466193368251
+                                ],
+                                [
+                                  579.40080070495605,
+                                  496.3906342194532
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  683.72187167516677,
+                                  425.15491840877803
+                                ],
+                                [
+                                  636.22322206251556,
+                                  378.25576189057028
+                                ],
+                                [
+                                  636.21033480763435,
+                                  378.34589409391629
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  636.24876082981064,
+                                  378.49783011411637
+                                ],
+                                [
+                                  627.36480594813474,
+                                  400.59330364082416
+                                ],
+                                [
+                                  573.20486001670361,
+                                  434.35076057474362
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  525.71658307261532,
+                                  463.94932748068823
+                                ],
+                                [
+                                  483.90011273106211,
+                                  510.48033284573467
+                                ],
+                                [
+                                  466.18406631052494,
+                                  530.9913419590448
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  453.53569712955505,
+                                  520.99971180416469
+                                ],
+                                [
+                                  441.09242389517021,
+                                  510.8771659990889
+                                ],
+                                [
+                                  428.44515484571457,
+                                  500.89677290181862
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  441.40855454387201,
+                                  493.35372117436782
+                                ],
+                                [
+                                  463.58539851222304,
+                                  478.75088977751147
+                                ],
+                                [
+                                  505.85418006777763,
+                                  446.98404223780381
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  600.0582058904838,
+                                  376.66772204975132
+                                ],
+                                [
+                                  556.92032043867221,
+                                  334.11237587994037
+                                ],
+                                [
+                                  557.03104081749916,
+                                  334.08915524690747
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  557.05665816561668,
+                                  334.22568942590806
+                                ],
+                                [
+                                  547.5140388301952,
+                                  361.97959117012942
+                                ],
+                                [
+                                  497.88797061145306,
+                                  393.47364538471447
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  448.18308582779719,
+                                  425.01999513663759
+                                ],
+                                [
+                                  417.44061788950057,
+                                  461.98276381814503
+                                ],
+                                [
+                                  403.33952504396439,
+                                  480.94101587991463
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  393.7731743001641,
+                                  473.32048346153169
+                                ],
+                                [
+                                  384.07009292530711,
+                                  465.77955341628694
+                                ],
+                                [
+                                  374.61289094388485,
+                                  458.08845541934716
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  385.68689334714145,
+                                  450.79780529359414
+                                ],
+                                [
+                                  404.54825525483466,
+                                  436.70857815224736
+                                ],
+                                [
+                                  440.35423564910889,
+                                  406.10692704777466
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  519.93539196523488,
+                                  338.03088717205173
+                                ],
+                                [
+                                  482.95313523976074,
+                                  293.66611933938475
+                                ],
+                                [
+                                  483.16255313158035,
+                                  293.6948406299889
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  483.15995996443962,
+                                  293.7900412963827
+                                ],
+                                [
+                                  474.95109292840061,
+                                  315.00179489385846
+                                ],
+                                [
+                                  434.23876172304153,
+                                  347.68805770139443
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  399.32349495119706,
+                                  375.72137320502952
+                                ],
+                                [
+                                  369.1894783211028,
+                                  420.3665174121852
+                                ],
+                                [
+                                  354.01339982450008,
+                                  441.10996859829174
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  343.95921933495265,
+                                  432.75258380782907
+                                ],
+                                [
+                                  334.13970082643573,
+                                  424.27976378919266
+                                ],
+                                [
+                                  324.321184223405,
+                                  415.76293850998627
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  336.59621591693212,
+                                  409.89617288696172
+                                ],
+                                [
+                                  357.02178803103743,
+                                  397.48488204731257
+                                ],
+                                [
+                                  388.1313069909811,
+                                  362.65487546782242
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  454.09110638260609,
+                                  288.80565972860859
+                                ],
+                                [
+                                  419.98592930936138,
+                                  256.63687128208767
+                                ],
+                                [
+                                  420.2375451028347,
+                                  256.6801300248444
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  420.22457926713105,
+                                  256.76248272676821
+                                ],
+                                [
+                                  415.2486058473587,
+                                  276.51778007061148
+                                ],
+                                [
+                                  380.16509753465652,
+                                  309.62725954263806
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  348.11425890262763,
+                                  339.87451113787756
+                                ],
+                                [
+                                  317.05206524300229,
+                                  383.76038779335067
+                                ],
+                                [
+                                  305.73336215864765,
+                                  399.75005283515202
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  297.63215084936019,
+                                  392.48521650957264
+                                ],
+                                [
+                                  289.6161211516046,
+                                  385.13154456421762
+                                ],
+                                [
+                                  281.75426702748882,
+                                  377.70215999643551
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  292.7613185700211,
+                                  370.18523639244813
+                                ],
+                                [
+                                  311.08400893984435,
+                                  355.2696926126664
+                                ],
+                                [
+                                  337.59819998394596,
+                                  323.70894292502999
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  397.4833678319701,
+                                  252.42175667565243
+                                ],
+                                [
+                                  364.22427047400561,
+                                  220.6393894235116
+                                ],
+                                [
+                                  364.47407890856266,
+                                  220.71148732810616
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  364.45089756594098,
+                                  220.78107064638243
+                                ],
+                                [
+                                  358.44810853926174,
+                                  241.24595281691654
+                                ],
+                                [
+                                  327.05705413769829,
+                                  273.09534951060414
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  298.01727546016991,
+                                  302.55805017453895
+                                ],
+                                [
+                                  274.00556928769583,
+                                  344.04127889330266
+                                ],
+                                [
+                                  264.45391315769302,
+                                  360.88460669975029
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  255.77819745550005,
+                                  352.30750992972753
+                                ],
+                                [
+                                  247.30286285054535,
+                                  343.58653167380544
+                                ],
+                                [
+                                  239.02641630720245,
+                                  334.73288934438824
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  248.25282641309968,
+                                  327.41886142395742
+                                ],
+                                [
+                                  273.33841810512604,
+                                  307.29061949678362
+                                ],
+                                [
+                                  291.32981172751533,
+                                  282.50996068626046
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  342.22079544517692,
+                                  212.40981634075797
+                                ],
+                                [
+                                  316.77758243019707,
+                                  187.04129439751341
+                                ],
+                                [
+                                  316.99870886456119,
+                                  187.15684749692082
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  316.9626402670583,
+                                  187.20580334930492
+                                ],
+                                [
+                                  314.80873992380293,
+                                  209.30009816367601
+                                ],
+                                [
+                                  284.65107046615231,
+                                  238.09230796008706
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  258.99592497303456,
+                                  263.15377533962237
+                                ],
+                                [
+                                  234.63374833244961,
+                                  306.52143111626719
+                                ],
+                                [
+                                  226.47360140632736,
+                                  321.21447329729199
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  219.13698149944321,
+                                  313.00517406672952
+                                ],
+                                [
+                                  212.0047503117421,
+                                  304.67772856961892
+                                ],
+                                [
+                                  205.06944266509163,
+                                  296.1893102577269
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  213.66539883250152,
+                                  291.00321171873293
+                                ],
+                                [
+                                  230.59775871078091,
+                                  278.44371744794989
+                                ],
+                                [
+                                  255.0393019820367,
+                                  246.21945094078183
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  303.96309339057552,
+                                  181.71748296718215
+                                ],
+                                [
+                                  280.48612971484908,
+                                  158.56157106416322
+                                ],
+                                [
+                                  280.62773235689747,
+                                  158.75209026818447
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  280.58914917307629,
+                                  158.77778619712444
+                                ],
+                                [
+                                  279.31260371243479,
+                                  177.3630936755635
+                                ],
+                                [
+                                  251.41829768370735,
+                                  202.76739936082959
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  226.83460170464605,
+                                  225.52161592210541
+                                ],
+                                [
+                                  201.42321392275699,
+                                  269.89380964249358
+                                ],
+                                [
+                                  194.36736329447376,
+                                  282.42949392407536
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  188.14831984442208,
+                                  274.40682414682306
+                                ],
+                                [
+                                  182.08023015428989,
+                                  266.27029075784594
+                                ],
+                                [
+                                  176.262341802827,
+                                  257.96759821980595
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  184.3050103993919,
+                                  253.50955100077772
+                                ],
+                                [
+                                  200.29345743844533,
+                                  242.66791208949508
+                                ],
+                                [
+                                  223.81819825421917,
+                                  214.8374136885941
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  271.07859081321294,
+                                  158.93042944472654
+                                ],
+                                [
+                                  249.10338523525934,
+                                  132.37125087977438
+                                ],
+                                [
+                                  249.16522834252464,
+                                  132.60039255802803
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  249.12664515870347,
+                                  132.60809347862778
+                                ],
+                                [
+                                  247.89905555044606,
+                                  149.26153072763373
+                                ],
+                                [
+                                  221.56512891303646,
+                                  171.70723897998505
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  198.65331851234441,
+                                  191.40331585151216
+                                ],
+                                [
+                                  174.37231586134658,
+                                  231.0958644335733
+                                ],
+                                [
+                                  166.76726386498547,
+                                  243.88591483741402
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  161.28330471850848,
+                                  235.55949089099522
+                                ],
+                                [
+                                  156.12050539336985,
+                                  227.0119405102123
+                                ],
+                                [
+                                  151.0762452388916,
+                                  218.37795122473835
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  158.31648576704526,
+                                  215.92406859179391
+                                ],
+                                [
+                                  171.01679687165233,
+                                  207.11625852706857
+                                ],
+                                [
+                                  192.99942833732712,
+                                  178.94923775404095
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  233.73494088530788,
+                                  126.45918341260949
+                                ],
+                                [
+                                  213.57267346201479,
+                                  103.45555132088884
+                                ],
+                                [
+                                  213.51845269452679,
+                                  103.7128249335783
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  213.49534993272755,
+                                  103.70508472256734
+                                ],
+                                [
+                                  212.42413616113845,
+                                  120.4119176404256
+                                ],
+                                [
+                                  188.4128228927766,
+                                  140.48613525216751
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  168.32457860422801,
+                                  157.23261219494998
+                                ],
+                                [
+                                  148.71972424495823,
+                                  187.87664783052969
+                                ],
+                                [
+                                  140.93743320356941,
+                                  200.59479678183197
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  136.57827994958996,
+                                  192.42470938167025
+                                ],
+                                [
+                                  132.40394879000439,
+                                  184.11455166549786
+                                ],
+                                [
+                                  128.46508506487942,
+                                  175.65011032705479
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  134.72467621931344,
+                                  171.86872257011237
+                                ],
+                                [
+                                  144.92407406874179,
+                                  163.04209239841111
+                                ],
+                                [
+                                  161.93925813387966,
+                                  141.45173639838868
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  197.00744318620491,
+                                  96.956799433339256
+                                ],
+                                [
+                                  175.13462841989895,
+                                  76.431370739110207
+                                ],
+                                [
+                                  174.97487360786545,
+                                  76.675992839385799
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  174.96457952012497,
+                                  76.655404663904847
+                                ],
+                                [
+                                  175.57287366668243,
+                                  89.397481475642053
+                                ],
+                                [
+                                  156.0651844943676,
+                                  109.02363123779469
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  142.14160572673779,
+                                  122.82639199091318
+                                ],
+                                [
+                                  129.20405911916521,
+                                  143.60237563751252
+                                ],
+                                [
+                                  120.82074265729523,
+                                  157.94742264633351
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  117.64851343595717,
+                                  150.3777713104846
+                                ],
+                                [
+                                  114.4679546474398,
+                                  142.83086912273393
+                                ],
+                                [
+                                  111.6475317681942,
+                                  135.01439542358094
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  116.40945102762259,
+                                  131.30652002603711
+                                ],
+                                [
+                                  123.49972005613733,
+                                  124.18033956166437
+                                ],
+                                [
+                                  137.47736242961025,
+                                  103.95422522013359
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  166.16211295132587,
+                                  62.44622389709366
+                                ],
+                                [
+                                  141.88307482088919,
+                                  48.795062740029152
+                                ],
+                                [
+                                  141.66163406323528,
+                                  48.995424192061819
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  141.64874680835408,
+                                  48.979963415245493
+                                ],
+                                [
+                                  144.61894473518248,
+                                  54.48195931612463
+                                ],
+                                [
+                                  129.26975268673038,
+                                  71.767520346094898
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  118.79799370670287,
+                                  83.117184274493411
+                                ],
+                                [
+                                  110.17991703777432,
+                                  99.874073176250022
+                                ],
+                                [
+                                  104.3250564093504,
+                                  112.32276848738366
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  103.71385477236242,
+                                  110.32968379726481
+                                ],
+                                [
+                                  103.0624197542819,
+                                  108.37753971564052
+                                ],
+                                [
+                                  102.47432087909317,
+                                  106.3682280856865
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  99.693463443949327,
+                                  92.948823874872687
+                                ],
+                                [
+                                  96.335076254235787,
+                                  79.205313061878769
+                                ],
+                                [
+                                  91.933175032845497,
+                                  65.088779084731868
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  85.058099586600179,
+                                  43.181209494048289
+                                ],
+                                [
+                                  77.875262349243599,
+                                  25.224844501089819
+                                ],
+                                [
+                                  70.850883340350151,
+                                  13.750983045641206
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "AddCurve",
+                              "points" : [
+                                [
+                                  70.486543357077494,
+                                  13.153591997790571
+                                ],
+                                [
+                                  69.710086250484778,
+                                  12.91502062084335
+                                ],
+                                [
+                                  68.678280761352539,
+                                  13.026782190771527
+                                ]
+                              ]
+                            },
+                            {
+                              "type" : "CloseSubpath"
+                            },
+                            {
+                              "type" : "MoveToPoint",
+                              "points" : [
+                                [
+                                  68.678280761352539,
+                                  13.026782190771527
+                                ]
+                              ]
+                            }
+                          ],
+                          "windingRule" : 0,
+                          "lineJoinStyle" : 0,
+                          "miterLimit" : 10
+                        },
+                        "isBackgroundTexture" : true,
+                        "textBaseline" : 0,
+                        "isVerticalText" : false,
+                        "textureType" : 5
+                      },
+                      "initialState" : {
+                        "affineTransform" : [
+                          1,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0
+                        ],
+                        "masksToBounds" : false,
+                        "rotation" : 0,
+                        "scale" : 1,
+                        "position" : {
+                          "pointX" : 530.04243404841657,
+                          "pointY" : 526.504685505829
+                        },
+                        "width" : 1063,
+                        "sublayerTransform" : [
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1,
+                          0,
+                          0,
+                          0,
+                          0,
+                          1
+                        ],
+                        "contentsRect" : {
+                          "y" : 0,
+                          "x" : 0,
+                          "width" : 1,
+                          "height" : 1
+                        },
+                        "opacity" : 1,
+                        "edgeAntialiasingMask" : 0,
+                        "height" : 1056,
+                        "hidden" : false,
+                        "anchorPoint" : {
+                          "pointX" : 0.5,
+                          "pointY" : 0.5
+                        }
+                      },
+                      "texture" : "83ED444BDA4396B2598F9A682BE70C2A"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+} )
